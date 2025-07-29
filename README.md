@@ -1,12 +1,24 @@
-# React + Vite
+# 🎲 Dice Roller App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple web-based Dice Roller built using **HTML**, **CSS**, and **JavaScript**. Click the "Roll Dice" button to simulate rolling two dice, display their values, and declare a winner.
 
-Currently, two official plugins are available:
+## ✨ Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Simulates two dice rolls
+- Displays dice images based on random values
+- Declares the winner based on higher dice roll
+- Responsive and clean UI
+- Pure JavaScript (no frameworks)
 
-## Expanding the ESLint configuration
+## 📸 Preview
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+![Dice Roller Preview](./preview.png) <!-- optional: you can add a screenshot and name it preview.png -->
+
+## 🚀 How to Run
+
+### Option 1: Open in Browser
+
+1. Download or clone the repository:
+   ```bash
+   git clone https://github.com/kousalya-dev/dice-roller-app.git
+   cd dice-roller-app
