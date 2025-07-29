@@ -10,10 +10,6 @@ A simple web-based Dice Roller built using **HTML**, **CSS**, and **JavaScript**
 - Responsive and clean UI
 - Pure JavaScript (no frameworks)
 
-## 📸 Preview
-
-![Dice Roller Preview](./preview.png) <!-- optional: you can add a screenshot and name it preview.png -->
-
 ## 🚀 How to Run
 
 ### Option 1: Open in Browser
